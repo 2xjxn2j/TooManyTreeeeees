@@ -1,0 +1,6 @@
+name: TooManyTrees
+main: org.jacob.spigot.plugins.TMT.TMT
+version: 1.0
+api-version: "1.13"
+commands:
+  tmt:
